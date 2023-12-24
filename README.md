@@ -4,4 +4,4 @@
 - 2.Then type `npm run dev` into the terminal and run the project.
 
 
-# Project coded by bnewixua
+# Project coded by bnewixua ❤️
